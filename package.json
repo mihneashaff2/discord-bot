@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/mihneashaff2/discord-bot/url/#readme",
   "dependencies": {
-    "discord.js": "~12.2.0",
+    "discord.js": "~12.2.0"
   },
   "publishConfig": {
     "@YOUR-USERNAME:registry": "https://npm.pkg.github.com"
