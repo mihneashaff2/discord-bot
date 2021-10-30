@@ -19,5 +19,8 @@
   "homepage": "https://github.com/mihneashaff2/discord-bot/url/#readme",
   "dependencies": {
     "discord.js": "~12.2.0",
+  },
+  "publishConfig": {
+   "@YOUR-USERNAME:registry": "https://npm.pkg.github.com"
   }
 }
